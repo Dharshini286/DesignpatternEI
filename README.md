@@ -1,10 +1,4 @@
 Design patterns are reusable solutions to commonly occurring problems in software design. They are not concrete implementations but rather templates or blueprints that can be adapted to fit specific situations.
-Benefits of Using Design Patterns
-Improved code quality: By following established patterns, code becomes more readable, maintainable, and extensible.
-Faster development: Patterns offer pre-tested solutions, saving time and effort.
-Better collaboration: Using a common design language enhances teamwork.
-Enhanced problem-solving skills: Understanding patterns expands your problem-solving repertoire.
-Categorization of Design Patterns
 Creational Patterns: Concerned with object instantiation. (e.g., Factory, Singleton, Builder)
 Factory Method : it is a design pattern that defines an interface for creating objects but lets subclasses decide which class to instantiate. It promotes loose coupling
 between the creator and the created objects.   
